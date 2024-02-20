@@ -3,7 +3,7 @@
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/resume.pdf) 
 
-View live demo here using github pages: [Live Demo](https://Swaraj44.github.io/Resume)
+View live demo here using github pages: [Live Demo](https://Swaraj44.github.io/)
 
 ## Dark Mode Preview
 

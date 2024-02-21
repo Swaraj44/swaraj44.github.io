@@ -5,13 +5,11 @@ A digital resume website built based on the content from my personal REAL [resum
 
 View live demo here using github pages: [Live Demo](https://Swaraj44.github.io/)
 
-## Dark Mode Preview
+## Preview
 
-<img src="assets\images\dark mode preview.PNG">
+<img src="assets\resume.jpeg">
 
-## Light Mode Preview
 
-<img src="assets\images\light mode preview.PNG">
 
 ## Switching between color themes
 
